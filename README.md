@@ -13,11 +13,6 @@ Aplicación de escritorio desarrollada con .NET Framework y C#, orientada a la a
 - 📊 Interfaz administrativa intuitiva
 <br>
 
-# 🖥️ Capturas del Sistema
-Panel Principal
-
-<br>
-
 # 🛠️ Tecnologías Utilizadas
 - C#
 - .NET Framework
@@ -34,7 +29,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 # 🚀 Instalación y Ejecución
 1. Clonar el repositorio
 ```bash
-  [git clone https://github.com/Maxin-Mendez](https://github.com/Maxin-Mendez/enterprise-management-system-Proyect1.git)
+  https://github.com/Maxin-Mendez/enterprise-management-system-Proyect1.git
 ```
 2.  Abrir el proyecto\
 Abrir la solución (.sln) desde Visual Studio.
@@ -55,6 +50,20 @@ Presiona:
 | Servicios   | Registro de ingresos y servicios     |
 | Planilla    | Gestión de trabajadores              |
 | Facturación | Generación de facturas de venta      |
+<br>
+
+# 🖥️ Capturas del Sistema
+### Panel Usuarios
+<img width="1238" height="752" alt="Usuarios" src="https://github.com/user-attachments/assets/174d89c7-915d-436e-98a3-6266d8162da7" />
+
+### Registro de Almacen
+<img width="1241" height="750" alt="Almacen" src="https://github.com/user-attachments/assets/82a22abb-0a98-4757-afde-71c23126a7f4" />
+
+### Panel Trabajadores
+<img width="1242" height="749" alt="Trabajadores" src="https://github.com/user-attachments/assets/bd51423e-8768-48f6-a542-81fcbf81a5e2" />
+
+### Registro de Facturacion
+<img width="1243" height="753" alt="Factura" src="https://github.com/user-attachments/assets/78f9190f-de00-4e58-bdd5-f10ca4770ff2" />
 <br>
 
 # 📄 Licencia
